@@ -31,8 +31,11 @@ experience:
     date_end: ''
     description: |2-
         College of Eduction
+        
         Department: Educational Studies in Psychology, Research Methodology, and Counseling
+
         Major: Educational Statistics and Research Methods
+        
         Advisor: Dr. Wenchao Ma
         
   #      * Analysing
