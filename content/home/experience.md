@@ -58,7 +58,7 @@ experience:
     company_logo: ug-logo
     location: Ghana, Accra, Legon
     date_start: '2011-09-01'
-    date_end: '2017-05-01' 
+    date_end: '2015-05-01' 
 
 design:
   columns: '2'

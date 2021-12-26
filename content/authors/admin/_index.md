@@ -10,8 +10,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The University of Alabama
+  url: https://www.ua.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
