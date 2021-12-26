@@ -1,5 +1,5 @@
 ---
-title: Benjamin Kweku Lugu
+title: Benjamin Lugu
 role: PhD Student
 bio: ""
 interests:
