@@ -33,10 +33,18 @@ feature:
   icon_pack: fab
   name: R
 
-- icon: "365"
+- icon: "pls-logo"
   icon_pack: "custom"
-  name: "Surfing"
-  description: "90%"
+  name: "Smart-PLS"
+
+- icon: "latex-logo"
+  icon_pack: "custom"
+  name: "LATEX"
+
+- icon: "spss-logo"
+  icon_pack: "custom"
+  name: "SPSS"
+#  description: "90%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
