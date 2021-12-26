@@ -29,9 +29,11 @@ experience:
     location: USA, Alabama, Tuscaloosa
     date_start: '2021-08-01'
     date_end: ''
-  #  description: |2-
-  #      Responsibilities include:
-  #      
+    description: |2-
+        College of Eduction
+        Educational Studies in Psychology, Research Methodology, and Counseling
+        Advisor: Dr. Wenchao Ma
+        
   #      * Analysing
   #      * Modelling
   #      * Deploying
