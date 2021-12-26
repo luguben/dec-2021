@@ -13,8 +13,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=8Fn6yF4AAAAJ&hl=en
-    display:
-      header: true
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Benjamin-Lugu-2
