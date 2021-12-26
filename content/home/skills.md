@@ -28,19 +28,7 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
 
-- icon: "latex-logo"
-  icon_pack: "custom"
-  name: "LATEX"
-
-- icon: "spss-logo"
-  icon_pack: "custom"
-  name: "SPSS"
-#  description: "90%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
