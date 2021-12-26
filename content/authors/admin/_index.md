@@ -16,7 +16,7 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Benjamin-Lugu-2
- - icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/luguben
   - icon: linkedin
