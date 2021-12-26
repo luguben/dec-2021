@@ -73,3 +73,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+I am Benjamin Kweku Lugu. You can call me Ben or Crown. Am currently a PhD student at the University of Alabama, Tuscaloosa, in the department of Educational Studies in Psychology, Research Methodology, and Counseling. I am majoring in Educational Statistics and Research Methods. Over the past few years, my research direction has been on the application structural equation modeling for analysing behaviors in society. Now, am reading and exploring new research areas for this PhD program.
