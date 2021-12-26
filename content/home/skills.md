@@ -40,6 +40,11 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- icon: "365"
+  icon_pack: "custom"
+  name: "Surfing"
+  description: "90%"
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
