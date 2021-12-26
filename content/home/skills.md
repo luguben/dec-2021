@@ -33,10 +33,6 @@ feature:
   icon_pack: fab
   name: R
 
-- icon: "pls-logo"
-  icon_pack: "custom"
-  name: "Smart-PLS"
-
 - icon: "latex-logo"
   icon_pack: "custom"
   name: "LATEX"

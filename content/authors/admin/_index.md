@@ -41,15 +41,21 @@ interests:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
-- icon: envelope
+- icon: envelope-open-text
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:bklugu@crimson.ua.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://researchgate.net/
+- icon: cv  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: ''
 - icon: github
   icon_pack: fab
   link: https://github.com/
