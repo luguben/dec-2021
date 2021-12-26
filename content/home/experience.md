@@ -26,8 +26,8 @@ experience:
     company: The University of Alabama
     company_url: ''
     company_logo: aims-logo
-    location: California
-    date_start: '2021-01-01'
+    location: Alabama, Tuscaloosa
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
