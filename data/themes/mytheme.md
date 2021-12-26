@@ -1,5 +1,5 @@
 # Theme metadata
-name = "mytheme"
+name = "Starter Blog"
 
 # Is theme light or dark?
 light = true
