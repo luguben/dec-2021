@@ -25,25 +25,40 @@ experience:
   - title: PhD Student
     company: The University of Alabama
     company_url: https://www.ua.edu/
-    company_logo: aims-logo
-    location: Alabama, Tuscaloosa
+    company_logo: ua-logo
+    location: USA, Alabama, Tuscaloosa
     date_start: '2021-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  #  description: |2-
+  #      Responsibilities include:
+  #      
+  #      * Analysing
+  #      * Modelling
+  #      * Deploying
+  - title: Master in Business Administration
+    company: University of Science and Technology of China
+    company_url: https://en.ustc.edu.cn/
+    company_logo: ustc-logo
+    location: China, Anhui Province, Hefei
+    date_start: '2018-09-01'
+    date_end: '2020-07-01'       
+
+
+  - title: MSc. Mathematical Science
+    company: African Institute for Mathematical Sciences
+    company_url: https://aims.ac.rw/
+    company_logo: aims-logo
+    location: Rwanda, Kigali
+    date_start: '2016-08-01'
+    date_end: '2017-06-01' 
+
+  - title: BSc. Mathematics
+    company: University of Ghana
+    company_url: https://www.ug.edu.gh/
+    company_logo: ug-logo
+    location: Ghana, Accra, Legon
+    date_start: '2011-09-01'
+    date_end: '2017-05-01' 
 
 design:
   columns: '2'
