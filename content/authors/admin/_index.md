@@ -46,7 +46,7 @@ social:
   link: 'mailto:bklugu@crimson.ua.edu'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/https://scholar.google.com/citations?user=8Fn6yF4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=8Fn6yF4AAAAJ&hl=en
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://www.researchgate.net/profile/Benjamin-Lugu-2
