@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Student
     company: The University of Alabama
-    company_url: ''
+    company_url: https://www.ua.edu/
     company_logo: aims-logo
     location: Alabama, Tuscaloosa
     date_start: '2021-08-01'
