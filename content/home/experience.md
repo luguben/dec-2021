@@ -31,7 +31,8 @@ experience:
     date_end: ''
     description: |2-
         College of Eduction
-        Educational Studies in Psychology, Research Methodology, and Counseling
+        Department: Educational Studies in Psychology, Research Methodology, and Counseling
+        Major: Educational Statistics and Research Methods
         Advisor: Dr. Wenchao Ma
         
   #      * Analysing
@@ -44,7 +45,10 @@ experience:
     location: China, Anhui Province, Hefei
     date_start: '2018-09-01'
     date_end: '2020-07-01'       
-
+    description: |2-
+        School of Management
+        Major: Statistics
+        Advisor: Dr. Li Yongjun
 
   - title: MSc. Mathematical Science
     company: African Institute for Mathematical Sciences
@@ -53,6 +57,9 @@ experience:
     location: Rwanda, Kigali
     date_start: '2016-08-01'
     date_end: '2017-06-01' 
+    description: |2-
+        Major: Multivariate Statistics
+        Advisor: Dr. Joseph Nzabanita
 
   - title: BSc. Mathematics
     company: University of Ghana
@@ -61,6 +68,9 @@ experience:
     location: Ghana, Accra, Legon
     date_start: '2011-09-01'
     date_end: '2015-05-01' 
+    description: |2-
+        School of Physical and Mathematical Science
+        Major: Mathematics
 
 design:
   columns: '2'
