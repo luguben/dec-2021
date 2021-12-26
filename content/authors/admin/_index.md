@@ -44,24 +44,21 @@ social:
 - icon: envelope-open-text
   icon_pack: fas
   link: 'mailto:bklugu@crimson.ua.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/
+  link: https://scholar.google.com/https://scholar.google.com/citations?user=8Fn6yF4AAAAJ&hl=en
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://researchgate.net/
-- icon: cv  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: ''
+  link: https://www.researchgate.net/profile/Benjamin-Lugu-2
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/luguben
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/benjamin-lugu-065771140/
+- icon: cv  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: uploads/academic cv_luguben.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -76,5 +73,3 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am Benjamin Kweku Lugu. You can call me Ben or Crown. Am currently a PhD student at the University of Alabama, Tuscaloosa, in the department of Educational Studies in Psychology, Research Methodology, and Counseling. I am majoring in Educational Statistics and Research Methods. Over the past few years, my research direction has been on the application structural equation modeling for analysing behaviors in society. Now, am reading and exploring new research areas for this PhD program.
