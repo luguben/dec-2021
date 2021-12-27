@@ -40,7 +40,7 @@ feature:
   icon_pack: "custom"
   name: "Office 365"
   description: ""
-- icon: "stata"
+- icon: "365"
   icon_pack: "custom"
   name: "Stata"
   description: ""
