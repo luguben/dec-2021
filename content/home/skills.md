@@ -40,7 +40,10 @@ feature:
   icon_pack: "custom"
   name: "Office 365"
   description: ""
-
+- icon: "stata"
+  icon_pack: "custom"
+  name: "Office 365"
+  description: ""
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
