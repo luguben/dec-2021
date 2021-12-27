@@ -20,15 +20,22 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: ''
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: SPSS
+- description: ''
+  icon: chart-line
+  icon_pack: fas
+  name: AMOS
+- description: ''
   icon: camera-retro
   icon_pack: fas
   name: Photography
-
+- icon: "R"
+  icon_pack: "custom"
+  name: "Surfing"
+  description: ""
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
