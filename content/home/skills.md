@@ -42,7 +42,7 @@ feature:
   description: ""
 - icon: "stata"
   icon_pack: "custom"
-  name: "Office 365"
+  name: "Stata"
   description: ""
 
 # Uncomment to use emoji icons.
