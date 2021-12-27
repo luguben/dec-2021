@@ -40,9 +40,9 @@ feature:
   icon_pack: "custom"
   name: "Office 365"
   description: ""
-- icon: "365"
+- icon: "pls"
   icon_pack: "custom"
-  name: "Stata"
+  name: "PLS-Smart"
   description: ""
 
 # Uncomment to use emoji icons.
