@@ -24,7 +24,7 @@ feature:
   icon_pack: "custom"
   name: "R"
   description: ""
-- icon: "R"
+- icon: "spss"
   icon_pack: "custom"
   name: "SPSS"
   description: ""
