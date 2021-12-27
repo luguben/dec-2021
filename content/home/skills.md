@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: ''
   icon: r-project
   icon_pack: fab
   name: R
@@ -28,10 +28,7 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- icon: "r"
-  icon_pack: "custom"
-  name: "Surfing"
-  description: "90%"
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
