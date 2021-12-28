@@ -33,5 +33,9 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: The outbreak of the COVID-19 pandemic has precipitated a surge in mask
+  usage around the world. This situation could spur environmental consequences
+  which when not well managed, may compound waste and waste management, and
+  further drive the spread of viral infections.
 date: 2021-10-20T19:25:31.912Z
 ---
