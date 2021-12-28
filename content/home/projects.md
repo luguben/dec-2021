@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Reading List
+    tag: Reading List   
+  - name: Daily Writing
+    tag: Daily Writing
   - name: Other
     tag: Demo
 

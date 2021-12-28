@@ -10,6 +10,9 @@ main:
   - name: Blog
     url: https://www.analysisinn.com/
     weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
   - name: Publications
     url: '#publications'
     weight: 50
