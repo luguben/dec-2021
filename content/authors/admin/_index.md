@@ -6,6 +6,8 @@ interests:
   - Structural Equation Modeling
   - Cognitive Diagnostic Models
   - Educational Measurement
+  - Multivariate Statistics
+  - Business Statistics
 Skills and Proficiencies:
   - R
   - SPSS
