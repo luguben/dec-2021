@@ -13,6 +13,15 @@ abstract: >-
   from all walks of life are judiciously investing in education. It comes with no surprise that the United States (US) is ranked first in education since 2020. The quality of education in the US coupled with her numerous opportunities attracts a lot students annually. According to open doors, China and India are two of the world’s populous countries that send a large number of students to the US for studies.
 draft: false
 featured: false
+
+url_pdf: 'Data analysis project.pdf'
+url_code: ''
+url_dataset: 'dt.csv'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: ""
   focal_point: Smart
