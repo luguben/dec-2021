@@ -5,6 +5,8 @@ draft: false
 featured: false
 authors:
   - Benjamin Lugu
+tags:
+  - Daily Writing
 image:
   filename: ""
   focal_point: Smart
