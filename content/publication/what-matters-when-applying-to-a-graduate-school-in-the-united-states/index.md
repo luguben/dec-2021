@@ -14,7 +14,7 @@ abstract: >-
 draft: false
 featured: false
 
-url_pdf: 'Data analysis project.pdf'
+url_pdf: 'data-analysis-project.pdf'
 url_code: ''
 url_dataset: 'dt.csv'
 url_poster: ''
