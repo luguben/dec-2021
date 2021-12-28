@@ -6,7 +6,7 @@ interests:
   - Structural Equation Modeling
   - Cognitive Diagnostic Models
   - Educational Measurement
-Skills and Proficiencies
+Skills and Proficiencies:
   - R
   - SPSS
 social:
