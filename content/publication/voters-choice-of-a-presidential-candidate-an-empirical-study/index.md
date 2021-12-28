@@ -40,5 +40,5 @@ summary: "Since the consolidation of democracy and the inception of reforms
   intense scrutiny, and persistently, altogether eminently preoccupied the
   attention of political scientists, pollsters, marketers and strategists in
   particular, has been one bordering on voter's behavior. "
-date: 2021-12-28T19:29:01.020Z
+date: 2020-12-10T19:29:01.020Z
 ---
