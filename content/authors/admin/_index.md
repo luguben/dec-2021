@@ -6,6 +6,9 @@ interests:
   - Structural Equation Modeling
   - Cognitive Diagnostic Models
   - Educational Measurement
+Skills and Proficiencies
+  - R
+  - SPSS
 social:
   - icon: envelope-open-text
     icon_pack: fas
