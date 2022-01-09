@@ -13,6 +13,9 @@ main:
   - name: Portfolio
     url: '#projects'
     weight: 30
+  - name: Library
+    url: library/projects
+    weight: 35
   - name: Publications
     url: '#publications'
     weight: 50
