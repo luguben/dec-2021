@@ -1,10 +1,9 @@
 ---
-title: "The Power of Now: Eckhart Tolle"
+title: The Power of Now
 date: 2021-11-10T21:09:55.662Z
 draft: false
 featured: false
-authors:
-  - Benjamin Lugu
+authors: []
 tags:
   - Books Read
 image:
