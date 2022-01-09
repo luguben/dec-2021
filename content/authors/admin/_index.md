@@ -8,9 +8,20 @@ interests:
   - Educational Measurement
   - Multivariate Statistics
   - Business Statistics
-Skills and Proficiencies:
-  - R
-  - SPSS
+education:
+  courses:   
+  - course: PhD in Educational Research
+    institution: Universite of Alabama
+    year: 
+  - course: MBA
+    institution: University of Science and Technology of China
+    year: 2020
+  - course: MSc Mathematical Science
+    institution: African Institute for Mathematical Science
+    year: 2017
+  - course: BSc Mathematics
+    institution: University of Ghana
+    year: 2015
 social:
   - icon: envelope-open-text
     icon_pack: fas
