@@ -28,7 +28,7 @@ abstract: The outbreak of the COVID-19 pandemic has precipitated a surge in mask
   findings, insightful implications for policy and suggestions for future
   research are presented.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
