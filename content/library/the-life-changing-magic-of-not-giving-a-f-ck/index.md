@@ -11,9 +11,11 @@ image:
   preview_only: false
 ---
 
+
+
 |             | Description     |
 | ----------- | --------------- |
-| Author      | Sarah Knight    |
-| Duration    | 4hr 15 min      |
-| Library     | Tuscaloosa Public Library |
+| **Author**      | Sarah Knight    |
+| **Duration**    | 4hr 15 min      |
+| **Library**     | Tuscaloosa Public Library |
 
