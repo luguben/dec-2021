@@ -25,16 +25,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Books read in
     tag: '*'
-  - name: Books Read
-    tag: Books Read   
-  - name: Writing
-    tag: Writing
+  - name: 2021
+    tag: 2021   
+  - name: 2022
+    tag: 2022
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
