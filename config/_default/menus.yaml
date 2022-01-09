@@ -10,14 +10,11 @@ main:
   - name: Blog
     url: https://www.analysisinn.com/
     weight: 20
-  - name: Portfolio
-    url: '#projects'
-    weight: 30
   - name: Library
-    url: library
+    url: library-home
     weight: 35
   - name: Publications
-    url: '#publications'
+    url: publications
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
