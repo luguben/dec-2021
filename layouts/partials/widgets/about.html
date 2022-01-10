@@ -108,60 +108,42 @@
 
 <!-- FLIP: comment out interests -->
 
-<div class="row">
 
-  {{ with $st.Params.interests }}
-  <div class="col-md-5">
-    <h3>{{ i18n "interests" | markdownify }}</h3>
-    <ul class="ul-interests">
-      {{ range .interests }}
-      <li>{{ . | markdownify }}</li>
-      {{ end }}
-    </ul>
-  </div>
-  {{ end }}
 
-  {{ with $st.Params.education }}
-  <div class="col-md-7">
-    <h3>{{ i18n "education" | markdownify }}</h3>
-    <ul class="ul-edu fa-ul">
-      {{ range .courses }}
-        {{ if .logo }}
-          <img src="{{ $.Site.BaseURL }}img/{{ .logo }}" style="height:1rem; float: left; padding-right: 10px;">
-        {{ else }}
-          <i class="fa-li fas fa-graduation-cap"></i>
-        {{ end }}
-        <div class="description">
-          {{ .course_short }}
-          {{ with .institution_short }}, {{ . }}{{ end }}
-          {{ with .year }}({{ . }}){{ end }}
-          <br />
-        </div>
-      {{ end }}
-    </ul>
-  </div>
-  {{ end }}
-
-  </div>
-
-<!--     <div class="row">
+    <div class="row">
 
       {{ with $person.interests }}
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
-          {{ range . }}
+          {{ range .interests }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
         </ul>
       </div>
       {{ end }}
 
-      {{ with $person.education }}
+      {{ with $st.Params.education }}
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
+            {{ if .logo }}
+              <img src="{{ $.Site.BaseURL }}img/{{ .logo }}" style="height:1rem; float: left; padding-right: 10px;">
+            {{ else }}
+              <i class="fa-li fas fa-graduation-cap"></i>
+            {{ end }}
+            <div class="description">
+              {{ .course_short }}
+              {{ with .institution_short }}, {{ . }}{{ end }}
+              {{ with .year }}({{ . }}){{ end }}
+              <br />
+            </div>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
