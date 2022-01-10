@@ -13,7 +13,6 @@ education:
   - course: PhD in Educational Research
     institution: Universite of Alabama
     year:
-    logo: /logo/icon_S.png 
   - course: MBA
     institution: University of Science and Technology of China
     year: 2020
@@ -56,39 +55,6 @@ organizations:
 email: ""
 superuser: true
 highlight_name: true
-
-[[education.courses]]
-  course = "PhD in Physics"
-  course_short = "PhD"
-  institution = "Cornell University"
-  institution_short = "Cornell"
-  year = 2013
-  logo = "/logo/icon_Co.png"
-
-[[education.courses]]
-  course = "MSc in Physics"
-  course_short = "MSc"
-  institution = "Durham University/IPPP"
-  institution_short = "Durham IPPP"
-  year = 2008
-  logo = "/logo/icon_D.png"
-
-[[education.courses]]
-  course = "MASt in Mathematics"
-  course_short = "MASt"
-  institution = "Cambridge University"
-  institution_short = "Cambridge"
-  year = 2007
-  logo = "/logo/icon_Ca.png"
-
-[[education.courses]]
-  course = "BS in Physics & Mathematics"
-  course_short = "BS"
-  institution = "Stanford University"
-  institution_short = "Stanford"
-  year = 2008
-  logo = "/logo/icon_S.png"
-
 
 ---
 
