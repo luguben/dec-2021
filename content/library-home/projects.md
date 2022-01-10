@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: Library
-subtitle: ''
+subtitle: The transformative power of reading...
 
 content:
   # Page type to display. E.g. project.

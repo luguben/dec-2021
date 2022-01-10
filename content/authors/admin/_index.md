@@ -57,4 +57,4 @@ superuser: true
 highlight_name: true
 ---
 
-Benjamin is a PhD student at The University of Alabama, Tuscaloosa, in the department of Educational Studies in Psychology, Research Methodology, and Counseling. He is majoring in Educational Statistics and Research Methods. Over the years,  his research direction has been on the application structural equation modeling for behavior analyses.
+Benjamin is a PhD student at The University of Alabama, Tuscaloosa, in the department of Educational Studies in Psychology, Research Methodology, and Counseling. He is majoring in Educational Statistics and Research Methods. Over the years,  his research direction has been on the application of structural equation modeling for behavior analyses.
