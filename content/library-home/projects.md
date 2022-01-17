@@ -25,12 +25,15 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Books read in
+  - name: Resources
     tag: '*'
-  - name: 2021
-    tag: 2021   
-  - name: 2022
-    tag: 2022
+  - name: Books
+    tag: Books   
+  - name: Writing
+    tag: Writing
+  - name: Research Data
+    tag: Research Data
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
