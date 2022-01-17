@@ -25,6 +25,6 @@ There has been a great improvements in my life since I started this reading expe
 
 Have a look at my completed reading list.
 
-{{< gdocs src="https://docs.google.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vRM4NSzETgRgcj9b_XkCYtJfmJAPMDeI_J20vkjwmNJyD7VDaHs1iUUcSsKj4GYYawLez1yKYuem4ql/pubhtml" >}}
+{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRM4NSzETgRgcj9b_XkCYtJfmJAPMDeI_J20vkjwmNJyD7VDaHs1iUUcSsKj4GYYawLez1yKYuem4ql/pubhtml" >}}
 Good Luck!
 
