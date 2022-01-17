@@ -15,7 +15,7 @@ image:
 Every story I create, creates me. I write to create myself. -– Octavia E. Butler
 {{% /callout %}}
 
-Beginning September 2021, I made a conscious effort to read good books every month. As a busy student with lots of ongoing research and assignments, one of the easiest and efficient way I can achieve this goal is by listening to audiobooks during my leisure time, while taking a walk, cooking or doing my laudary. Good audiobooks are expensive, however, there is a cheaper route. 
+Beginning September 2021, I made a conscious effort to read good books every month. As a busy student with lots of ongoing research and assignments, one of the easiest and efficient way I can achieve this goal is by listening to audiobooks during my leisure time, while taking a walk, cooking or doing my laundary. Good audiobooks are expensive, however, there is a cheaper route. 
 
 Since I am a student at [The University of Alabama](www.ua.edu), I subscribed for an electronic library card from the [Tuscaloosa Public Library](https://www.tuscaloosa-library.org/). With the [Libby app](https://www.overdrive.com/apps/libby/) for android or ios, I can download and listen to countless books free of charge.
 
