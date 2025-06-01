@@ -1,17 +1,16 @@
 ---
 # Display name
-title: Benjamin Lugu, PhD
-role: Quantitative Methodologist
+title: Benjamin Lugu
+role: PhD Student
 bio: ""
 
 # Interests to show in About widget
 interests:
-  - Cognitive Diagnostic Models
   - Structural Equation Modeling
-  - Survey Data Analysis
-  - Longitudinal Data
-  - Data Visualisation
-
+  - Cognitive Diagnostic Models
+  - Educational Measurement
+  - Multivariate Statistics
+  - Business Statistics
 
 
 
@@ -20,8 +19,8 @@ first_name: Benjamin Kweku
 last_name: Lugu
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,7 +36,7 @@ education:
   courses:   
   - course: PhD in Educational Research
     institution: Universite of Alabama
-    year: 2025
+    year:
   - course: MBA
     institution: University of Science and Technology of China
     year: 2020
@@ -90,10 +89,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Quantatitive Methodologist. I love teaching and doing research 😊. I am interested in empirical and some methodolocal studies (applications) that employ cognitive diagnosis models, structural equation model and general statistical methods in education, psychology, and in the social and behavior sciences. Feel free to check [here](https://benjaminlugu.com/publication) or [Google scholar page](https://scholar.google.com/citations?hl=en&user=8Fn6yF4AAAAJ) for my publications. Please reach out if you'd like us to collaborate on a project.
-
-Shout out to [Dr Wenchao Ma](https://edpsych.umn.edu/people/quantitative-methods-education-faculty/wenchao-ma) (Advisor), [Dr Stefanie Wind](https://professorwind.science/) (Supervisor) and the faculty in the [Ed. Research program at The University of Alabama](https://education.ua.edu/department/educational-studies-in-psychology-research-methodology-and-counseling/educational-research/). They helped shape my life.
-
-Some _fun things_ I do often are: exercising, watching movies, going for a walk, driving and playing with Youtube Shorts 😆.
-
-
+Benjamin is a PhD student at The University of Alabama, Tuscaloosa, in the department of Educational Studies in Psychology, Research Methodology, and Counseling. He is majoring in Educational Statistics and Research Methods. Over the years,  his research direction has been on the application of structural equation modeling for behavior analyses.
+{style="text-align: justify;"}

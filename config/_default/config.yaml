@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Benjamin Lugu, PhD # Website name
+title: Benjamin Kweku Lugu # Website name
 baseURL: 'https://benjaminlugu.com/' # Website URL
 
 ############################
@@ -73,5 +73,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-
-
